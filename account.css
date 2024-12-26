@@ -10,8 +10,6 @@ body {
   background-size: cover;
   display: flex;
   justify-content: center;
-  align-items: center;
-  height: 100vh;
   margin: 0;
 }
 /* styling for navigation br  */
