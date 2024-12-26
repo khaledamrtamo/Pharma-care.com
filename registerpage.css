@@ -11,8 +11,7 @@ body {
   background-size: cover;
   display: flex;
   justify-content: center;
-  align-items: center;
-  height: 100vh;
+
   margin: 0;
 }
 /* Navigation bar styling */
@@ -26,7 +25,7 @@ nav{
   background-color: rgba(255, 255, 255, 0.642);
 width: 100%;
 z-index: 1;
-margin-bottom: 650px;
+margin-bottom: 670px;
 backdrop-filter: blur(30px);
 border-radius: 2.5px;
 
@@ -68,7 +67,7 @@ nav h3 {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   width: 300px;
   text-align: center;
-  margin-top: 15rem;
+  margin-top: 5rem;
 }
 /* Heading inside register container */
 
