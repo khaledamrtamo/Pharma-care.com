@@ -13,6 +13,7 @@
             background-color: #f4f4f9;
             color: #333;
             background: url(background.jpg) no-repeat center center fixed;
+                background-size: cover;
         }
 
         /* Navigation bar styling */
